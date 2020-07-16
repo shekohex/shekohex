@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter and Dart
 - 👯 I’m looking to collaborate on anything related to Rust
 - 💬 Ask me about #rust, #ffi
-- 📫 How to reach me: [shadykhalifa.me](shadykhalifa.me)
+- 📫 How to reach me: [shadykhalifa.me](https://shadykhalifa.me)
