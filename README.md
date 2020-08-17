@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything related to Rust
 - 💬 Ask me about #rust, #ffi
 - 📫 How to reach me: [shadykhalifa.me](https://shadykhalifa.me)
+- 📊 See My Stats on [CodersRank](https://profile.codersrank.io/user/shekohex)
