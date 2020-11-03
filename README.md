@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Some stats
 
-![Shady's github stats](https://github-readme-stats.vercel.app/api?username=shekohex&count_private=true)
+![Shady's github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=shekohex&skills=Rust,C,C%2B%2B,C%23,Dart,JavaScript,Typescript&width=820)
 
 ### Keep in touch
 
