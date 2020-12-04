@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### Some stats
 
+![Shady's Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=shekohex&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:5px)
+
 ![Shady's github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=shekohex&skills=Rust,C,C%2B%2B,C%23,Dart,JavaScript,Typescript&width=820)
 
 ### Keep in touch
