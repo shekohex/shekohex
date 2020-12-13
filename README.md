@@ -4,9 +4,10 @@
 **shekohex/shekohex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Rust & Dart at [@sunshine-protocol](https://github.com/sunshine-protocol)
-- 🌱 I’m currently learning GameDev 🎮
-- 👯 I’m looking to collaborate on anything related to Rust
+- 🏗 Building the next Wasm smart contract platform, in the Polkadot ecosystem. [@edgeware-builders](https://github.com/edgeware-builders)
+- 🔭 Working on Rust & Dart at [@sunshine-protocol](https://github.com/sunshine-protocol)
+- 🌱 I’m currently learning #GameDev 🎮
+- 👯 I’m looking to collaborate on anything related to Rust,Typescript,Dart,Flutter,...
 - 💬 Ask me about #rust, #ffi, #web
 - 📫 How to reach me: [shadykhalifa.me](https://shadykhalifa.me)
 - 📊 See My Stats on [CodersRank](https://profile.codersrank.io/user/shekohex)
