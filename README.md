@@ -2,7 +2,7 @@
 
 - 👷 Exploring Zero-Knowledge Proofs and Privacy-focused tools 🕸️ [@webb-tools](https://github.com/webb-tools)
 - 🏗 Building the next Webassembly smart contract platform, in the Polkadot ecosystem. [@edgeware-builders](https://github.com/edgeware-builders)
-- 🦉 Reserching to build fully anonymus metadata-free casual chat [@owlchat](https://github.com/owlchat)
+- 🦉 Reserching to build fully anonymous metadata-free casual chat [@owlchat](https://github.com/owlchat)
 - 🔭 Working on Rust & Dart at [@sunshine-protocol](https://github.com/sunshine-protocol)
 - 🌱 I’m currently learning #mobiledev 📱 #GameDev 🎮 #blockchain ⛓️
 - 👯 I’m looking to collaborate on anything related to Rust, Typescript, Dart, Flutter, ...
